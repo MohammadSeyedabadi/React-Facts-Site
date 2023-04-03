@@ -1,5 +1,6 @@
 import React from "react"
 import ReactSmallImg from "../images/react-icon-small.png"
+
 export default function Navbar(props) {
     return (
          <nav 
