@@ -84,6 +84,7 @@ nav.dark .toggler--slider {
 
 nav.dark .toggler--slider--circle {
     background-color: black;
+    /* background-color: chartreuse; */
 }
 
 .toggler--light {
